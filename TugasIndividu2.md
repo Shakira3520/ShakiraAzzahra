@@ -1,19 +1,31 @@
-- 👋 Hi, Saya Shakira Azzahra Hadi Putri
-- 👀 Selamat datang di akun Github saya
-- 🌱 Kali ini saya akan Menjelaskan Tutorial Membuat Akun Github
-- 💞️ Pertama teman-teman buka salah satu mesin pencari yang biasa teman-teman gunakan, misalnya chrom.
-- 💞️ Selanjutnya, masuk ke laman https://github.com/ 
-- 💞️ Setelah teman-teman klik enter pada keyboard, akan muncul halaman seperti di bawah ini, lalu klik menu sign up 
-- 💞️ Setelah klik sign up, akan muncul tampilan layar yang memberi perintah untuk memasukkan email. 
-- 💞️ Yang harus teman lakukan adalah memasukkan alamat email yang akan teman gunakan untuk membuat akun Github. Selanjutnya klik continue.
-- 💞️ Masukkan password yang akan teman-teman gunakan lalu klik continue. Selanjutnya tambahkan username yang teman-teman ingin gunakan lalu klik continue.
-- 💞️ Terakhir, ketik y untuk menyetujui semua peraturan yang ada.
-- 💞️ Untuk tujuan verifikasi, ikuti petunjuk sesuai arahan. Lalu, klik create account
-- 💞️ Selanjutnya, masukkan kode verifikasi yang telah dikirim melalui alamat email yang telah teman-teman daftarkan.
-- 💞️ Akun teman-teman sudah siap digunakan. Lengkapi pertanyaan jika memang dibutuhkan.
-- 💞️ Selamat mencoba dan semoga berhasil semuanya....
+Hi semuanya, saya Shakira Azzahra Hadi Putri dari Jurusan Teknik Informatika, Universitas Teknologi Sumbawa
 
-- 📫 Get to know me on my Instagram @shakiraazzahra03_
+**SELAMAT DATANG DI AKUN GITHUB SAYA**
+
+ Untuk postingan pertama di akun ini, saya akan Menjelaskan Tutorial Membuat Akun Github
+ 
+ _SELAMAT MENCOBA_
+  
+    Github adalah sebuah website dan layanan berbasis cloud bagi para developer untuk menyimpan dan mengelola kode, 
+    serta mendokumentasikan dan mengontrol perubahannya.
+    
+    Langkah-langkah untuk membuat akun Github sebagai berikut :
+    
+1. Langkah pertama, buka salah satu mesin pencari yang sering digunakan, misalnya chrom.
+2. Selanjutnya, masuk ke laman https://github.com/ 
+3. Setelah menekan enter, akan muncul halaman seperti di bawah, klik menu sign up.
+4. Setelah klik sign up, akan muncul tampilan memberi perintah memasukan email dan password. Klik continue setelah mengisi.
+5. Isi semua kolom kosong yang diperlukan sesuai perintah laman.
+6. Lalu klik create account
+7. Masukkan kode verifikasi yang sudah dikirim melalui email.
+8. Akun teman-teman siap digunakan.
+
+_Disarankan untuk teman-teman, setelah membaca tutorial di atas langsung dipraktekkan atau bisa mambaca sambil praktek_
+
+**_TERIMAKASIH BANYAK_**
+
+Get To Know Me On My Instagram @shakiraazzahra03_
+
 
 <!---
 Shakira3520/Shakira3520 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
